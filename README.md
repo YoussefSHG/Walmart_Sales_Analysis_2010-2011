@@ -59,4 +59,4 @@ All underlying scripts and data models are available in the repository:
 * **Power BI Workbook:** [`Walmart_Sales_Analysis.pbix`](./Walmart_Sales_Analysis.pbix) *(Requires local MySQL connection setup)*
 * **SQL Queries & Schema:** [`scripts/data_extraction_and_schema.sql`](./scripts/data_extraction_and_schema.sql)
 * **Python Correlation Analysis:** [`scripts/eda_correlation.py`](./scripts/eda_correlation.py)
-* **Dataset Used:** [`Assets/Walmart_Sales.csv`](./Assets/Walmart_Sales.csv)
+* **Dataset Used:** [`assets/Walmart_Sales.csv`](./assets/Walmart_Sales.csv)
