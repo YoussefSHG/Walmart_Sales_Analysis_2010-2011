@@ -6,8 +6,8 @@
 This project analyzes multi-store retail performance by shifting focus from broad macroeconomic factors to actionable, internal seasonality patterns. Using historical Walmart weekly sales data from February 2010 to October 2012, the objective was to identify core revenue drivers, optimize inventory cycles, and evaluate store performance tiers.
 
 **Key Findings:** 
-* **Total Sales Analyzed:** $6.74 B across all store locations.
-* **Average Weekly Sales:** $1.01 M per store.
+* **Total Sales Analyzed:** $6.74B across all store locations.
+* **Average Weekly Sales:** $1.01M per store.
 * **Tier Performance Distribution:**
   * **Outperformers:** Accounted for 35.97% of total sales revenue.
   * **Average Performers:** Accounted for 34.55% of total sales revenue.
@@ -31,10 +31,10 @@ Prioritizing inventory procurement and staffing adjustments around internal seas
 ---
 
 ## 2. Interactive Dashboard & Key Visuals
-
-> *Insert high-resolution screenshots or short animated GIFs of your Power BI dashboard views below.*
-
-![Power BI Dashboard Overview](assets/dashboard_overview.png)
+![Power BI Dashboard Overview](assets/dashboard_overview1.png)
+![Power BI Dashboard Overview](assets/dashboard_overview2.png)
+![Power BI Dashboard Overview](assets/dashboard_overview3.png)
+![Power BI Dashboard Overview](assets/dashboard_overview4.png)
 
 ### Core Visual Breakdown
 1. **Tier Performance Matrix:** Highlights revenue contribution across *Outperformer*, *Average*, and *Underperformer* store categories.
